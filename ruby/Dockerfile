@@ -1,4 +1,4 @@
-FROM eadz/trusty-base
+FROM eadz/ubuntu-trusty-base:latest
 
 MAINTAINER _@eaden.net
 
